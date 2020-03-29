@@ -1,0 +1,24 @@
+{
+  "name": "rs-nodejs-course-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirashuriken/rs-nodejs-course-task1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirashuriken/rs-nodejs-course-task1/issues"
+  },
+  "homepage": "https://github.com/hirashuriken/rs-nodejs-course-task1#readme",
+  "dependencies": {
+    "commander": "5.0.0",
+    "fs": "0.0.1-security",
+    "through2": "^3.0.1"
+  }
+}
